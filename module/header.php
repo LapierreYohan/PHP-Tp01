@@ -1,5 +1,8 @@
 <?php
 $indexFile = "./";
+
+require("../include/debug.php");
+//debug($_SERVER, true);
 ?>
 
 <header>
