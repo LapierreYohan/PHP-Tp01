@@ -1,8 +1,8 @@
 <?php
 $indexFile = "./";
-
 require("../include/debug.php");
 //debug($_SERVER, true);
+//PHP SELF
 ?>
 
 <header>
